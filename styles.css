@@ -1,0 +1,181 @@
+body {
+  text-align: center;
+  margin: 0;
+  /* change it for getting compact box */
+  background-color: #F9F9F9;
+}
+
+h1 {
+  margin: 0;
+  padding-top: 200px;
+  font-family: 'Sacramento', cursive;
+  font-size: 100px;
+  color: #0A81AB;
+}
+
+h2 {
+  font-size: 40px;
+  font-family: 'Caveat', cursive;
+  color: #A239EA;
+}
+
+h3 {
+  font-family: 'Architects Daughter', cursive;
+  color: #0A81AB;
+  font-size: 25px;
+}
+
+p {
+  padding: 30px;
+  line-height: 2;
+  font-size: 20px;
+}
+
+.web {
+  height: 250px;
+  width: 250px;
+  padding: 15px;
+  margin: 30px;
+}
+
+.digi {
+  height: 300px;
+  width: 300px;
+  padding-top: 15px;
+  padding-right: 20px;
+  float: left;
+}
+
+.contact-me {
+  margin: auto 100px;
+  margin: 50px 200px;
+  font-family: 'Architects Daughter', cursive;
+  padding: 20px;
+}
+
+.martial {
+  height: 300px;
+  width: 300px;
+  padding-top: 15px;
+}
+
+.c1 {
+  position: relative;
+  left: 300px;
+  top: 100px;
+  height: 70px;
+  width: 200px;
+}
+.mo{
+
+  position:relative;
+  right: 100px;
+}
+.c2 {
+  position: relative;
+  right:  100px;
+  bottom: 300px;
+  height: 70px;
+  width: 200px;
+}
+
+.sinchan {
+  height: 350px;
+  width: 350px;
+  padding-top: 30px;
+}
+
+.top {
+  padding-bottom: 30px;
+  background-color: #A2DBFA;
+}
+
+.profile {
+  font-family: 'Architects Daughter', cursive;
+  font-size: 25px;
+}
+
+.skill-row {
+  font-family: 'Architects Daughter', cursive;
+  font-size: 20px;
+  margin: 50px 200px;
+  padding: 20px;
+}
+
+.bottom {
+  margin: 10px auto 0;
+  background-color: #39A2DB;
+  padding: 50px;
+}
+
+hr {
+  background-color: #F9F9F9;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #DDDDDD;
+  border-width: 8px;
+  width: 5%;
+}
+
+.na {
+  color: #EAF6F6;
+  /*  font-family: 'Newsreader', serif;*/
+  padding: 40px;
+  font-family: 'Caveat', cursive;
+  font-size: 30px;
+  margin-top: 20px;
+}
+
+.btn {
+  background: #33cbe6;
+  background-image: -webkit-linear-gradient(top, #33cbe6, #218acc);
+  background-image: -moz-linear-gradient(top, #33cbe6, #218acc);
+  background-image: -ms-linear-gradient(top, #33cbe6, #218acc);
+  background-image: -o-linear-gradient(top, #33cbe6, #218acc);
+  background-image: linear-gradient(to bottom, #33cbe6, #218acc);
+  -webkit-border-radius: 9;
+  -moz-border-radius: 9;
+  border-radius: 9px;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 18px 18px 18px 18px;
+  text-decoration: none;
+  font-size: 30px;
+  /*font-family: 'Architects Daughter', cursive;*/
+  font-family: 'Caveat', cursive;
+}
+
+.btn:hover {
+  background: #24e0e0;
+  background-image: -webkit-linear-gradient(top, #24e0e0, #21b0b0);
+  background-image: -moz-linear-gradient(top, #24e0e0, #21b0b0);
+  background-image: -ms-linear-gradient(top, #24e0e0, #21b0b0);
+  background-image: -o-linear-gradient(top, #24e0e0, #21b0b0);
+  background-image: linear-gradient(to bottom, #24e0e0, #21b0b0);
+  text-decoration: none;
+}
+
+a {
+  padding: 20px;
+  color: white;
+  margin-bottom: 20px;
+  font-family: 'Caveat', cursive;
+  font-size: 40px;
+  margin: 15px 40px;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: #DDDDDD;
+}
+
+/* font-family: 'Architects Daughter', cursive;
+font-family: 'Benne', serif;
+font-family: 'Caveat', cursive;
+font-family: 'Courgette', cursive;
+font-family: 'Kalam', cursive;
+font-family: 'Kirang Haerang', cursive;
+font-family: 'Mate SC', serif;
+font-family: 'Newsreader', serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Sacramento', cursive; */
